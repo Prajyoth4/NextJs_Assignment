@@ -1,0 +1,10 @@
+.card {
+  position: relative;
+  width: 10em;
+  height: 25em;
+}
+
+.card-image {
+  width: 100%;
+  height: auto;
+}
